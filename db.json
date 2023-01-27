@@ -15,6 +15,26 @@
         "place": "Banglore",
         "gender": "Female"
       }
+    ],
+  "cars":[
+    { "id":1,
+      "brand":"tata",
+	  "type":"AUTO",
+      "year": 2012,
+      "kms": 1500,
+      "Description": "Best car in the world",
+      "Price": 200000
+    }
+    ],
+  "wishlisted_cars":[
+    { "id":1,
+      "brand":"tata",
+	  "type":"AUTO",
+      "year": 2012,
+      "kms": 1500,
+      "Description": "Best car in the world",
+      "Price": 200000
+    }
     ]
   
 }
