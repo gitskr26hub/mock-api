@@ -29,7 +29,7 @@
   "wishlisted_cars":[
     { "id":1,
       "brand":"tata",
-	  "type":"AUTO",
+      "type":"AUTO",
       "year": 2012,
       "kms": 1500,
       "Description": "Best car in the world",
@@ -41,12 +41,12 @@
     "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
     "book_name": "Harry Potter and the Philosopher's Stone",
     "author": "J. K. Rowling",
-		"genre": "fiction",
-		"edition": "2021",
-		"publisher": "Bloomsbury",
-		"cost": 1299,
-		"borrowed": false,
-	  "id":1
+    "genre": "fiction",
+    "edition": "2021",
+    "publisher": "Bloomsbury",
+     "cost": 1299,
+    "borrowed": false,
+    "id":1
   }
 ]
 	
